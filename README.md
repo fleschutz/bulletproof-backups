@@ -36,6 +36,6 @@ Nowadays, data loss is a disaster! Prevent this with regular data backups as des
 * **Feedback is welcome!** Create a pull request or send your email feedback to: markus.fleschutz [at] gmail.com
 * **DISCLAIMER:** All informations are given according to my best knowledge, but without guarantee.
 
-🤝 License & Copyright
+📜 License & Copyright
 -----------------------
 This open source project is licensed under the CC0-1.0 license. All trademarks are the property of their respective owners.
