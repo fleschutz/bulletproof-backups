@@ -4,7 +4,7 @@ title ⏳ Backup in Progress...
 
 set "SOURCE=C:\Repos"
 set "TARGET=%~dp0..\DATA\Git_repos\"
-set OPTIONS=/MIR /FFT /SL /NJH /NFL /xa:o /r:3 /w:10 /unicode
+set OPTIONS=/MIR /FFT /SL /NJH /NFL /xa:o /r:3 /w:0 /unicode
 set LOGFILE=..\DATA\Logbook.csv
 
 cls
