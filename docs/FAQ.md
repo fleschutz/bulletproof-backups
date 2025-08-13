@@ -1,6 +1,7 @@
 ![image](folder.jpg) Data Backup FAQ's
 ======================================
 
+
 Why back up at all?
 -------------------
 * **Backups protect you from data loss -** If your computer crashes or your hard drive fails, you could lose all of your data. Backing up your data protects you from this type of data loss and allows you to restore previous versions of your files.
@@ -8,6 +9,23 @@ Why back up at all?
 * **Recover from data loss more quickly -** If you lose data, it can take a long time to recover. If you have a backup, you can quickly restore your data and get back to work.
 Data Gives You Peace of Mind - Knowing that your data is backed up can give you peace of mind. If something happens to your data, you know you have a backup and can rest assured that you can recover it.
 * **Remote access -** If you have a backup of your data, you can access it from anywhere in the world. This is extremely useful if you work remotely or travel frequently. All you need is an internet connection, and you can get to your files.
+
+How can data loss happen?
+-------------------------
+Data loss essentially refers to the destruction of data. It can be intentional, but it’s often not. It can be caused by many things:
+
+* **Hard drive crash** - Your hard drive has suddenly stopped working and you’re unable to access your data.
+* **System failure** - A critical hardware component has malfunctioned and you’re unable to access your data.
+* **Human error** -  Either through accidental deletion or formatting, some or all of the data is deleted.
+* **Software corruption** - Your file system or data has become corrupted and you’re no longer able to access your data.
+* **Infection by viruses or malware** - The virus has attacked your file system and corrupted it, preventing you from accessing your data.
+* **Hacker attacks or internal leaks** - Your sensitive data is compromised, putting you and/or your business at risk.
+* **Theft of property** - Your data is lost and irrecoverable because it was the only copy you had.
+* **Power failures** - Sudden power failure can interrupt delicate write processes, leaving data in a corrupted state.
+* **Natural disasters** - Your data is lost as a result of physical damage caused by a natural disaster.
+* **Out-dated formats** - Your data is in a file format that cannot be opened by modern software.
+* **Bit rot** - The gradual corruption of data due to an accumulation of non-critical failures in a data storage device.
+
 
 What data should I back up? 
 ---------------------------
