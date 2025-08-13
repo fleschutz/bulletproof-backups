@@ -1,5 +1,5 @@
-Data Backup FAQ's
-=================
+![image](folder.jpg) Data Backup FAQ's
+======================================
 
 Why back up at all?
 -------------------

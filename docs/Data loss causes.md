@@ -1,5 +1,5 @@
-Data Loss Causes
-================
+![image](folder.jpg) Data Loss Causes
+=====================================
 
 Data loss essentially refers to the destruction of data. It can be intentional, but it’s often not. It can be caused by many things:
 
