@@ -17,7 +17,7 @@ Data loss essentially refers to the destruction of data. It can be intentional, 
 * **System failure** - A critical hardware component has malfunctioned and you’re unable to access your data.
 * **Human error** -  Either through accidental deletion or formatting, some or all of the data is deleted.
 * **Software corruption** - Your file system or data has become corrupted and you’re no longer able to access your data.
-* **Infection by viruses or malware** - The virus has attacked your file system and corrupted it, preventing you from accessing your data.
+* **Viruses or malware** - The virus has attacked your file system and corrupted it, preventing you from accessing your data.
 * **Hacker attacks or internal leaks** - Your sensitive data is compromised, putting you or your business at risk.
 * **Theft of property** - Your data is lost and irrecoverable because it was the only copy you had.
 * **Power failures** - Sudden power failure can interrupt delicate write processes, leaving data in a corrupted state.
@@ -86,4 +86,5 @@ Why not use a cloud backup only?
 --------------------------------
 In a real disaster the internet is the first thing that doesn't work and afterward it's the last thing that will be up and running.
 In the meantime (which may last days/weeks/months) your backup is out of reach.
+
 
