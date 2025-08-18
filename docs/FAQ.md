@@ -2,15 +2,16 @@
 ======================================
 
 
-Why back up at all?
--------------------
+<details><summary>Why back up at all?</summary>
+
 * **Backups protect you from data loss** - If your computer crashes or your hard drive fails, you could lose all of your data. Backing up your data protects you from this type of data loss and allows you to restore previous versions of your files.
 * **Backups guard you against malware and ransomware** - If your computer becomes infected with malware or ransomware, your data could be encrypted and made inaccessible. Backing up your data protects you from this type of data loss.
 * **Recover more quickly** - If you lose data, it can take a long time to recover. If you have a backup, you can quickly restore your data and get back to work.
 * **Remote access** - If you have a backup of your data, you can access it from anywhere in the world. This is extremely useful if you work remotely or travel frequently. All you need is an internet connection, and you can get to your files.
+</details>
 
-How can data loss happen?
--------------------------
+<details><summary>How can data loss happen?</summary>
+
 Data loss essentially refers to the destruction of data. It can be intentional, but it’s often not. It can be caused by many things:
 
 * **Hard drive crash** - Your hard drive has suddenly stopped working and you’re unable to access your data.
@@ -25,7 +26,7 @@ Data loss essentially refers to the destruction of data. It can be intentional, 
 * **Cloud data unaccessible** - Either through key/password loss, account locked, data center damage, or company insolvency.
 * **Out-dated formats** - Your data is in a file format that cannot be opened by modern software.
 * **Bit rot** - The gradual corruption of data due to an accumulation of non-critical failures in a data storage device.
-
+</details>
 
 What data should I back up? 
 ---------------------------
@@ -86,5 +87,6 @@ Why not use a cloud backup only?
 --------------------------------
 In a real disaster the internet is the first thing that doesn't work and afterward it's the last thing that will be up and running.
 In the meantime (which may last days/weeks/months) your backup is out of reach.
+
 
 
