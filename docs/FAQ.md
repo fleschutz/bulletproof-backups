@@ -28,8 +28,8 @@ Data loss essentially refers to the destruction of data. It can be intentional, 
 * **Bit rot** - The gradual corruption of data due to an accumulation of non-critical failures in a data storage device.
 </details>
 
-What data should I back up? 
----------------------------
+<details><summary>What data should I back up?</summary>
+
 Back up everything that can't be replaced if it's lost. For individuals, it's your entire digital life:
 
 * **Communication** such as: address books, emails, messenger chats, and so on.
@@ -40,9 +40,10 @@ Back up everything that can't be replaced if it's lost. For individuals, it's yo
 * **Digital keys** for the office, internet shops and services, etc.
 
 For businesses, data backup options become a bit more technical — think of backing up customer databases, configuration files, machine images, operating systems, and registry files — and there’s typically an IT department in place to manage them.
+</details>
 
-What types of data backups are available?
------------------------------------------
+<details><summary>What types of data backups are available?</summary>
+
 When deciding on a backup data storage strategy, there are different types of data backups you can perform to help protect your personal data. Depending on the size of the data you’d like to protect and the frequency with which you’d like to back it up, you can decide between these three data backup options:         
 
 * **Full backups:** This method backs up every single file on your device. Because of this, the process could take many hours depending on the size of the data. A full backup is recommended when you’re backing up your data for the first time. 
@@ -50,9 +51,10 @@ When deciding on a backup data storage strategy, there are different types of da
 * **Differential backups:** With a differential backup, you’re only backing up files that have changed or have been added since your last full backup. Because of this, differential backups can be performed much more quickly than a full backup. 
 
 * **Incremental backups:** Like a differential backup, incremental backups also only back up data that has been changed or added since the last backup. The difference is that incremental backups will back up any changed data since the last backup, whether it was a full, differential, or incremental backup. These types of backups are often performed by backup software because they can be done frequently due to their small size and fast backup time. 
+</details>
 
-How to handle hard drives?
---------------------------
+<details><summary>How to handle hard drives?</summary>
+
 Hard drives can easily be damaged by too much physical force, extreme temperatures, or from Electrostatic Discharge (ESD). Special handling is required to protect them from damage:
 
 * Get tools and cables ready before removing the drive from its ESD bag.
@@ -74,19 +76,20 @@ Hard drives can easily be damaged by too much physical force, extreme temperatur
 * DO NOT force or hammer a drive into a drive bay.
 * DO NOT force or hammer drive connections.
 * DO NOT block or cover any air filter holes on the drives.
+</details>
 
-What about starting the backup scripts in parallel?
----------------------------------------------------
+<details><summary>What about starting the backup scripts in parallel?</summary>
+  
 No problem, but don't expect much speed gains due to bottlenecks such as same source media or same backup disk.
+</details>
 
-What about copying other data onto the backup disk?
----------------------------------------------------
-No problem, as long as there is enough disk space left.
+<details><summary>What about copying other data onto the backup disk?</summary>
+  
+No problem, as long as there is enough disk space left for the backups.
+</details>
 
-Why not use a cloud backup only?
---------------------------------
+<details><summary>Why not use a cloud backup only?</summary>
+  
 In a real disaster the internet is the first thing that doesn't work and afterward it's the last thing that will be up and running.
 In the meantime (which may last days/weeks/months) your backup is out of reach.
-
-
-
+</details>
