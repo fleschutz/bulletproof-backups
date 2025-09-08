@@ -29,11 +29,10 @@ Nowadays, data loss is a disaster! Prevent this with regular data backups as des
 
 💡 Hints
 --------
-* **Full backups** are only made once (slow for big data), but then only changes ("deltas") are copied in no time.
-* **[Logbook.csv](DATA/Logbook.csv)** (a table in .CSV format) contains the backup details and gets updated automatically by the backup scripts.
+* **A full backup** is only made once (slow for big data), afterward only changes are copied lightning fast (incremental backups).
 * **No encryption** is performed to keep it simple and robust! Use an encryption program and a vault to prevent unauthorized access.
+* **[Logbook.csv](DATA/Logbook.csv)** is written and updated automatically by the backup scripts (a table in .CSV format). It contains all the backup details.
 * **Test your backups** regularly to ensure that they are working properly. Restore your backups to a test environment and check that all of your data can be accessed as expected.
-* **Feedback is welcome!** Create a pull request or send your email feedback to: markus.fleschutz [at] gmail.com
 * **DISCLAIMER:** All informations are given according to my best knowledge, but without guarantee.
 
 🤝 Contributing
@@ -41,7 +40,6 @@ Nowadays, data loss is a disaster! Prevent this with regular data backups as des
 * Contributions, suggestions, and improvements are welcome!
 * Open an Issue if you encounter bugs or have feature ideas.
 * Create a Pull Request if you'd like to improve something.
-* Or just send your feedback to: markus.fleschutz [at] gmail.com
   
 📜 License & Copyright
 -----------------------
