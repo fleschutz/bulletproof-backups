@@ -12,16 +12,16 @@ Bulletproof Backups
 - [ ] 6. **[Download this repo](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/v1.0.zip)**  (5.8MB), then unzip it as top folder 📁*bulletproof-backups* onto each hard drive.
 - [ ] 7. **Set up a reminder** in your digital calendar to back up your data every day/week/month/etc.
 
-💾 How to back up your data
-----------------------------
+💾 Backing Up Your Data
+------------------------
 - [ ] 1. **Connect your mobile devices** to the PC and copy photos into the *Pictures* folder, documents into the *Documents* folder, and so on.
 - [ ] 2. **Connect the next hard drive** to the PC and open the folders 📁*bulletproof-backups/scripts*.
 - [ ] 3. **Execute the backup scripts** one by one, e.g. 📄*save_Home_dir.bat* to copy your PC's home folder (containing your pictures, docs, etc.) to the drive at 📁*bulletproof-backups/DATA*
 - [ ] 4. **Disconnect the drive** *properly* and store it *carefully* in a *separate* and *secure* location.
 
-🪂 How to recover your data
----------------------------
-- [ ] 1. **Get the hard drive** with the latest (!) backup. Check the logbook if in doubt.
+🪂 Recovering Your Data
+-----------------------
+- [ ] 1. **Get the hard drive** with the latest (!) backup. Check the [Logbook.csv](DATA/Logbook.csv) if in doubt.
 - [ ] 2. **Check the hard drive:** in case it's damaged read the [documents](docs/).
 - [ ] 3. **Connect the hard drive** to the PC and open the folders 📁*bulletproof-backups/DATA*.
 - [ ] 4. **Manually copy** (=overwrite files) or sync (=overwrite folder content) the missing or corrupted data back to the computer (but DON'T MOVE the data).
