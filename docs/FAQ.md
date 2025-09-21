@@ -1,5 +1,5 @@
-![image](folder.jpg) Data Backup FAQ's
-======================================
+![image](folder.jpg) Backup FAQ's
+=================================
 
 
 <details><summary>Why back up at all?</summary>
@@ -94,5 +94,6 @@ No problem, as long as there is enough disk space left for the backups.
 In a real disaster the internet is the first thing that doesn't work and afterward it's the last thing that will be up and running.
 In the meantime (which may last days/weeks/months) your backup is out of reach.
 </details>
+
 
 
