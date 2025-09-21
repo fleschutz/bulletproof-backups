@@ -10,7 +10,7 @@ Bulletproof Backups
 4. **Label the hard drives** by writing an unique name and the disk size onto them (e.g. "*#1 Backups 4TB*")
 5. **Connect the hard drives** with the computer and rename the disks using the same name.
 6. **[Download this repo](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/v1.0.zip)** (5.8MB), unzip it, and copy it as 📁*bulletproof-backups* folder onto each hard drive.
-7. **Set up a reminder** in your digital calendar to back up your data every day/week/month/etc.
+7. **Set up a reminder** in your digital calendar to perform the backup every day/week/month/etc.
 
 💾 Backing Up Your Data
 ------------------------
