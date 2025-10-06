@@ -2,21 +2,21 @@
 chcp 65001 >NUL
 title ⏳ Backup in Progress...
 
-set "SOURCE=%HOMEDRIVE%%HOMEPATH%\..\"
-set "TARGET=%~dp0..\DATA\All_Users\"
+set "SOURCE=%HOMEDRIVE%%HOMEPATH%\"
+set "TARGET=%~dp0..\DATA\Home_dir\"
 set OPTIONS=/MIR /FFT /SL /NJH /NFL /xa:o /r:3 /w:10 /unicode
 set LOGFILE=..\DATA\Logbook.csv
 
 cls
 echo.
-echo       ______________________________
+echo      _______________________________
 echo.
-echo         Backup of Home Directories
-echo       ______________________________
+echo         Backup of Home Folder
+echo      _______________________________
 echo.
 echo.
 echo.
-echo This script will copy all home directories...
+echo This script will copy your Home folder...
 echo.
 echo.
 echo        FROM: %SOURCE%
@@ -24,7 +24,6 @@ echo.
 echo          TO: %TARGET%
 echo.
 echo     OPTIONS: %OPTIONS% (for robocopy)
-echo.
 echo.
 echo.
 echo.
@@ -42,7 +41,7 @@ robocopy %SOURCE% %TARGET% %OPTIONS%
 echo %DATE%; %TIME%; %COMPUTERNAME%; %SOURCE%; Backup finished; >>%LOGFILE%
 
 title ✅ Backup succeeded
-echo ✅ Backup of all Home directories succeeded.
+echo ✅ Your Home folder has been backed up.
 echo.
 echo 💡 When finished eject the drive properly and store it in a separate(!) and secure(!) location.
 pause
