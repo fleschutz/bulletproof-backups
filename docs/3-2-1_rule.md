@@ -1,5 +1,5 @@
-![image](folder.jpg) The 3-2-1 Backup Strategy
-==============================================
+![image](folder.jpg) The 3-2-1 Rule
+===================================
 
 The 3-2-1 backup rule is a simple, effective strategy for keeping your data safe. It advises that you keep three copies of your data on two different media with one copy off-site. Let’s break that down:
 
@@ -9,8 +9,8 @@ The 3-2-1 backup rule is a simple, effective strategy for keeping your data safe
 
 If you want to protect your personal information, photos, work files, or other important data, the 3-2-1 backup strategy is the way to go. It helps you avoid having a single point of failure that’s vulnerable to human error, [hard drive crashes](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2024/), theft, natural disasters, or [ransomware](https://www.backblaze.com/blog/category/cloud-storage/ransomware/).
 
-How Does the 3-2-1 Backup Rule Work?
-------------------------------------
+How Does the 3-2-1 Rule Work?
+-----------------------------
 
 Let’s say you took a picture of your social security card for your tax accountant years ago—that file is called “`socialsecurity.jpg`” and it lives on your computer at home. That’s the first “copy” of your data.
 
@@ -28,4 +28,3 @@ If you back up your home computer to an external hard drive and back both of tho
 - You have **three** copies of your data: One on your computer, one on your hard drive, and one in the cloud.
 - You store your data on **two** different devices: Your computer and your external hard drive. (Technically, three devices, since your data is also stored in the cloud).
 - **One** of those copies is off-site: The cloud copy.
-
