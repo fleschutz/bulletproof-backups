@@ -16,16 +16,16 @@ Bulletproof Backups
 ---------------------
 - [ ] **Connect your mobile devices** to the PC and copy photos into the *Pictures* folder, documents into the *Documents* folder, and so on.
 - [ ] **Connect the next hard drive** to the PC and open the 📁*bulletproof-backups* folder, then 📁*scripts*.
-- [ ] **Execute the appropriate backup scripts** one by one, e.g. 📄*save_Home_folder.bat* to copy your home folder (containing your pictures, docs, etc.) to the drive at 📁*bulletproof-backups/DATA*
-- [ ] **Disconnect the drive** *properly* and store it *carefully* in a *separate* and *secure* location.
+- [ ] **Execute** the appropriate backup scripts one by one, e.g. 📄*save_Home_folder.bat* to copy your home folder (containing your pictures, docs, etc.) to the drive at 📁*bulletproof-backups/DATA*
+- [ ] **Disconnect** the drive *properly* and store it *carefully* in a *separate* and *secure* location.
 
 🪂 Recover Your Data
 --------------------
-- [ ] **Get the hard drive** with the latest (!) backup. Check the [Logbook.csv](DATA/Logbook.csv) if in doubt.
-- [ ] **Check the hard drive:** in case it's damaged read the [documents](docs/).
-- [ ] **Connect the hard drive** to the PC and open the folders 📁*bulletproof-backups/DATA*.
+- [ ] **Get the hard drive** with the *latest(!)* backup. Check the [Logbook.csv](DATA/Logbook.csv) if in doubt.
+- [ ] **Check** the hard drive, in case it's damaged read the [documents](docs/).
+- [ ] **Connect** the hard drive to your PC and open the folders 📁*bulletproof-backups/DATA*.
 - [ ] **Manually copy** (=overwrite files) or sync (=overwrite folder content) the missing or corrupted data back to the computer (but DON'T MOVE the data).
-- [ ] **Disconnect the drive** *properly* and store it *carefully* in a *separate* and *secure* location again.
+- [ ] **Disconnect** the drive *properly* and store it *carefully* in a *separate* and *secure* location again.
 
 💡 Hints
 --------
