@@ -14,6 +14,7 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 | .CSV          | Spreadsheet table      | based on ASCII                      |
 | .DNG          | Digital Negative image | open format                         |
 | .HTML         | Web page               | based on ASCII                      |
+| .INI          | Program settings       | based on ASCII                      |
 | .JPG/PNG/TIFF | Photo                  | standard (not lossless, keep generation loss in mind) |
 | .MD           | Markdown text          | ASCII/Unicode based, RFC 7763       | 
 | PDF/A         | Adobe's PDF format     | open standard, includes everything  |
@@ -23,11 +24,10 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 ❌ File Formats to Avoid
 -------------------------
 
-| Format | Description                | Reason                        |
-| ------ | -------------------------- | ----------------------------- |
-| .DOC   | Microsoft Word text        | proprietary                   |
-| .XLS   | Microsoft Excel table      | proprietary                   | 
-| .RAW   | Raw image format           | highly proprietary per camera |
-
-
-
+| Format | Description                | Reason                         |
+| ------ | -------------------------- | ------------------------------ |
+| .DLL   | Dynamic linked library     | proprietary (Windows x86 only) |
+| .DOC   | Microsoft Word text        | proprietary                    |
+| .EXE   | Program executable         | proprietary (Windows x86 only) |
+| .XLS   | Microsoft Excel table      | proprietary                    | 
+| .RAW   | Raw image format           | highly proprietary per camera  |
