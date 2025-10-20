@@ -1,9 +1,13 @@
-File Formats & Backups
-======================
-**Your backup plan might be perfect, but what about file formats? The original proposal for the World Wide Web, written by Tim Berners-Lee in 1989, is an important piece of internet history. However, this Word document can't be opened on modern computers. Will you be able to open today’s files in 20 years? Probably not, unless you take some necessary steps to give those digital files an extra-long shelf life.**
+File Formats for Backups
+========================
+**What about the file system, partitions and the file formats in your data backups? Will you be able to open today’s files in 20 years?**
 
-Recommended File Formats
--------------------------
+For example the original proposal for the World Wide Web (WWW), written by Tim Berners-Lee in 1989, is an important piece of internet history. However, this Word document can't be opened on modern computers.
+
+💡 IMPORTANT NOTE: Use **standard** file systems, partitions, and file formats only and avoid the non-standard or exotic ones!
+
+👍 Recommended Standard File Formats
+-------------------------------------
 
 | Format        | Description                                             |
 | ------------- | ------------------------------------------------------- |
@@ -14,8 +18,8 @@ Recommended File Formats
 
 
 
-File Formats To Avoid
----------------------
+👎 Non-standard File Formats To Avoid
+--------------------------------------
 
 | Format | Description                   |
 | ------ | ----------------------------- |
@@ -23,4 +27,3 @@ File Formats To Avoid
 | XLS    | Microsoft Excel (proprietary) |
 | RAW    | highly proprietary per camera |
 |        |                               |
-
