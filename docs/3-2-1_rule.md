@@ -7,7 +7,7 @@ The 3-2-1 backup rule is a simple, effective strategy for keeping your data safe
 - On **2** different media: You should store your data on two different forms of media. This means something different today than it did in the late 2000s. I’ll talk a little more about this in a bit.
 - **1** copy off-site: You should keep one copy of your data off-site in a remote location, ideally more than a few miles away from your other two copies.
 
-If you want to protect your personal information, photos, work files, or other important data, the 3-2-1 backup strategy is the way to go. It helps you avoid having a single point of failure that’s vulnerable to human error, [hard drive crashes](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2024/), theft, natural disasters, or [ransomware](https://www.backblaze.com/blog/category/cloud-storage/ransomware/).
+If you want to protect your personal information, photos, or other important data, the 3-2-1 backup strategy is the way to go. It helps you avoid having a single point of failure that’s vulnerable to human error, hard drive crashes, theft, natural disasters, or ransomware attacks.
 
 How Does the 3-2-1 Rule Work?
 -----------------------------
@@ -18,8 +18,6 @@ You also have an external hard drive at home, used to back up your [go-to Mac](h
 
 In addition to that external hard drive, you also have an [online backup solution](https://www.backblaze.com/cloud-backup). The online backup continuously scans your computer and uploads your data to the cloud (which, in layman’s terms, is an off-site data center). `Socialsecurity.jpg` is included in this upload, becoming the third copy of your data.
 
-Oh! And, your paper social security card is hopefully stored in [a fire-proof safe](https://www.backblaze.com/blog/building-your-digital-go-bag/) (not your wallet) as a bonus. 
-
 The Easiest 3-2-1 Backup
 ------------------------
 
@@ -28,3 +26,4 @@ If you back up your home computer to an external hard drive and back both of tho
 - You have **three** copies of your data: One on your computer, one on your hard drive, and one in the cloud.
 - You store your data on **two** different devices: Your computer and your external hard drive. (Technically, three devices, since your data is also stored in the cloud).
 - **One** of those copies is off-site: The cloud copy.
+
