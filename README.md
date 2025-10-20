@@ -23,7 +23,7 @@ Bulletproof Backups
 --------------------
 1. **Get the hard drive** with the *latest(!)* backup. Read [Logbook.csv](DATA/Logbook.csv) if in doubt.
 2. **Check** the hard drive. Read the [documents](docs/) if it's damaged.
-3. **Connect** the hard drive to your PC and open the folders 📁*bulletproof-backups/DATA*.
+3. **Connect** the hard drive to your PC and open the folders: 📁*bulletproof-backups*, then 📁*DATA*.
 4. **Manually copy** (=overwrite files) or sync (=overwrite folder content) the missing or corrupted data back to the computer. DO NOT move  the data! Be careful to set source and destination correct!
 5. **Disconnect** the drive *properly* and store it *carefully* in a *separate* and *secure* location again.
 
