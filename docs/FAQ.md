@@ -14,8 +14,8 @@
 
 **Data loss essentially refers to the destruction of data. It can be intentional, but it’s often not. It can be caused by many things:**
 
-* **Hard drive crash** - A harddisk or SSD has suddenly stopped working and you’re unable to access your data.
-* **System failure** - A critical hardware component has malfunctioned (e.g. RAID card) and you’re unable to access your data.
+* **Drive crash** - A harddisk or SSD has suddenly stopped working and you’re unable to access your data.
+* **System failure** - A critical hardware component has malfunctioned (e.g. a RAID card) and you’re unable to access your data.
 * **Human error** - Data has been deleted either through accidental deletion, moving or formatting.
 * **Software corruption** - Your file system or data has become corrupted and you’re no longer able to access your data.
 * **Viruses or malware** - The virus has attacked your file system and corrupted it, preventing you from accessing your data.
@@ -94,6 +94,7 @@ No problem, as long as there is enough disk space left for the backups.
 In a real disaster the internet is the first thing that doesn't work and afterward it's the last thing that will be up and running.
 In the meantime (which may last days/weeks/months) your backup is out of reach.
 </details>
+
 
 
 
