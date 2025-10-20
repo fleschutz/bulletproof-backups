@@ -24,8 +24,8 @@
 * **Power failures** - Sudden power failure can interrupt delicate write processes, leaving data in a corrupted state.
 * **Natural disasters** - Your data is lost as a result of physical damage caused by a natural disaster.
 * **Cloud data unaccessible** - Account is locked, data center damage, or company insolvency.
-* **Locked out** - Either through key/password loss, or you're fired and your data access has been revoked.
-* **Out-dated formats** - Your data is in a file format that cannot be opened by modern software.
+* **Locked out** - Your account is locked (e.g. you have been fired) or the key/password/credentials are lost.
+* **Out-dated format** - The partition or file system or file formats are out-dated and cannot be opened by modern software.
 * **Bit rot** - The gradual corruption of data due to an accumulation of non-critical failures in a data storage device.
 </details>
 
@@ -94,6 +94,7 @@ No problem, as long as there is enough disk space left for the backups.
 In a real disaster the internet is the first thing that doesn't work and afterward it's the last thing that will be up and running.
 In the meantime (which may last days/weeks/months) your backup is out of reach.
 </details>
+
 
 
 
