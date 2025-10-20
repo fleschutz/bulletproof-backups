@@ -9,13 +9,13 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 ✅ Recommended File Formats
 ----------------------------
 
-| Format        | Description            | Reason         | 
-| ------------- | ---------------------- | -------------- |
-| .CSV          | Spreadsheet table      | based on ASCII |
-| .DNG          | Digital Negative image | open format    |
-| .HTML         | Web page               | based on ASCII |
+| Format        | Description            | Reason                              | 
+| ------------- | ---------------------- | ----------------------------------- |
+| .CSV          | Spreadsheet table      | based on ASCII                      |
+| .DNG          | Digital Negative image | open format                         |
+| .HTML         | Web page               | based on ASCII                      |
 | .JPG/PNG/TIFF | Photo                  | standard (but not lossless, keep generation loss in mind) |
-| .MD           | Markdown text          | based on ASCII/Unicode              | 
+| .MD           | Markdown text          | ASCII/Unicode based, RFC 7763       | 
 | PDF/A         | Adobe's PDF format     | open standard, includes everything  |
 | .TXT          | Text                   | based on ASCII/Unicode              | 
 
@@ -28,4 +28,5 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 | .DOC   | Microsoft Word text        | proprietary                   |
 | .XLS   | Microsoft Excel table      | proprietary                   | 
 | .RAW   | Raw image format           | highly proprietary per camera |
+
 
