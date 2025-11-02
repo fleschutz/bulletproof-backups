@@ -1,10 +1,10 @@
 Bulletproof Backups
 ===================
-**Nowadays, data loss is a disaster! Prevent this with regular data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
+**Our nice digital lifestyle has an Achilles' heel: DATA LOSS threatens our photos, videos, e-books, documents, and so on. It hits phones, computers, even data centers. Prevent this with regular data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
 
 📋 Planning & Preparation
 --------------------------
-- [ ] **[Read the documents](docs/)** to plan your backup strategy, recommended is [3-2-1](docs/3-2-1_rule.md).
+- [ ] **[Read the documents](docs/)** to plan your backup strategy, recommended is: [3-2-1](docs/3-2-1_rule.md).
 - [ ] **[Fetch hard drives](https://www.amazon.com/s?k=harddisk)** with enough capacity (use different vendors/models/types and maybe rugged ones).
 - [ ] **Check** the hard drives for errors and use error-free ones only.
 - [ ] **Choose** unique names (e.g. "Backup #1 (4TB)") and label the hard drives with it.
