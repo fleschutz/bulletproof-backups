@@ -1,6 +1,6 @@
 Bulletproof Backups
 ===================
-**Our digital lifestyle has an Achilles' heel: DATA LOSS threatens our photos, videos, e-books, documents, and all the rest. Phones, computers, even data centers are affected. Prevent this from today on with regular data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
+**It's invisible but DATA LOSS threatens our digital photos, videos, e-books, documents, etc. It affects phones, tablets, computers, even entire data centers. Prevent this from today on with regular data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
 
 📋 Planning & Preparation
 --------------------------
