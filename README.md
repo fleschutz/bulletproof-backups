@@ -12,7 +12,7 @@ Bulletproof Backups
 - [ ] **[Download this repo](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/v1.0.zip)** (5.8MB), unzip it, and copy it as 📁*bulletproof-backups* folder onto each hard drive.
 - [ ] **Set up a reminder** in your digital calendar to perform the backup every day/week/month/etc.
 
-💾 Perform the Backup
+⏯ Perform the Backup
 ---------------------
 - [ ] **Connect your mobile device(s)** to the PC and copy photos into the *Pictures* folder, videos into the *Videos* folder, and so on.
 - [ ] **Connect the next hard drive** to the PC and open the 📁*bulletproof-backups* folder, then 📁*scripts*.
