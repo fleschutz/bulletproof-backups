@@ -14,10 +14,10 @@ Bulletproof Backups
 
 ▶️ Perform the Backup
 ---------------------
-- [ ] **Connect your mobile device(s)** to the PC and copy photos into the *Pictures* folder, videos into the *Videos* folder, and so on.
-- [ ] **Connect the next hard drive** to the PC and open the 📁*bulletproof-backups* folder, then 📁*scripts*.
-- [ ] **Execute** the appropriate backup script, e.g. 📄*save_Home_folder.bat* to copy your home folder (with your pictures, videos, etc.) to the drive at 📁*bulletproof-backups/DATA*
-- [ ] **Disconnect** the drive *properly* and store it *carefully* in a *separate* and *secure* location.
+1. **Connect your mobile device(s)** to the PC and copy photos into the *Pictures* folder, videos into the *Videos* folder, and so on.
+2. **Connect the next hard drive** to the PC and open the 📁*bulletproof-backups* folder, then 📁*scripts*.
+3. **Execute** the appropriate backup script, e.g. 📄*save_Home_folder.bat* to copy your home folder (with your pictures, videos, etc.) to the drive at 📁*bulletproof-backups/DATA*
+4. **Disconnect** the drive *properly* and store it *carefully* in a *separate* and *secure* location.
 
 🪂 Recover Your Data
 --------------------
