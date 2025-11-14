@@ -37,5 +37,6 @@ echo.
 echo ✅ Your installed apps have been saved to %TARGET_FILE%.
 echo.
 echo 💡 Use 'winget import My_Apps.json' to re-install them.
+echo.
 pause
 exit 0

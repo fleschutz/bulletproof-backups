@@ -41,9 +41,10 @@ if not exist "%TARGET%" mkdir "%TARGET%"
 robocopy %SOURCE% %TARGET% %OPTIONS%
 echo %DATE%; %TIME%; %COMPUTERNAME%; %SOURCE%; Backup finished; >>%LOGFILE%
 
-title ✅ Backup succeeded
+title ✅ Git repos backed up
 echo ✅ Backup of Git repositories succeeded.
 echo.
 echo 💡 When finished eject the drive properly and store it in a separate(!) and secure(!) location.
+echo.
 pause
 exit 0
