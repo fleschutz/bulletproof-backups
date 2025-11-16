@@ -34,7 +34,7 @@ winget export -o %TARGET_FILE%
 
 title ✅ Apps saved
 echo.
-echo ✅ Your installed apps have been saved to %TARGET_FILE%.
+echo ✅ List of installed apps has been exported to %TARGET_FILE%.
 echo.
 echo 💡 Use 'winget import My_Apps.json' to re-install them.
 echo.
