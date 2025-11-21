@@ -1,19 +1,20 @@
 @echo off
 chcp 65001 >NUL
-title ⏳ Backup in Progress...
+title ⏳ Export in Progress...
 
 set "TARGET_FILE=%~dp0..\DATA\My_Apps.json"
+set LOGFILE=..\DATA\Logbook.csv
 
 cls
 echo.
 echo      _______________________________
 echo.
-echo         Backup of Installed Apps
+echo          Export Installed Apps
 echo      _______________________________
 echo.
 echo.
 echo.
-echo This script saves a list of your installed applications...
+echo This script exports a list of your installed applications...
 echo.
 echo.
 echo.
@@ -30,9 +31,11 @@ echo.
 echo Hold on to start the backup... (or abort with [Ctrl] [C])
 timeout 5
 
+echo %DATE%; %TIME%; %COMPUTERNAME%; "Apps"; Started; >>%LOGFILE%
 winget export -o %TARGET_FILE%
+echo %DATE%; %TIME%; %COMPUTERNAME%; "Apps"; Completed; >>%LOGFILE%
 
-title ✅ Apps saved
+title ✅ Apps exported
 echo.
 echo ✅ List of installed apps exported to %TARGET_FILE%.
 echo.
