@@ -5,14 +5,14 @@ title ⏳ Backup in Progress...
 set "SOURCE=%HOMEDRIVE%%HOMEPATH%\"
 set "TARGET=%~dp0..\DATA\Home_dir\"
 set OPTIONS=/MIR /FFT /SL /NJH /NFL /xa:o /r:3 /w:10 /unicode
-set LOGFILE=..\DATA\Logbook.csv
+set LOGFILE=..\docs\Logbook.csv
 
 cls
 echo.
-echo      _______________________________
+echo      ______________________________
 echo.
-echo         Backup of Home Folder
-echo      _______________________________
+echo          Backup of Home Folder
+echo      ______________________________
 echo.
 echo.
 echo.

@@ -21,7 +21,7 @@ Bulletproof Backups
 
 🪂 Recover Your Data
 --------------------
-1. **Get the hard drive** with the *latest(!)* backup. Read [Logbook.csv](DATA/Logbook.csv) if in doubt.
+1. **Get the hard drive** with the *latest(!)* backup. Read [Logbook.csv](docs/Logbook.csv) if in doubt.
 2. **Check** the hard drive. Read the [documents](docs/) if it's damaged.
 3. **Connect** the hard drive to your PC and open the folders: 📁*bulletproof-backups*, then 📁*DATA*.
 4. **Copy** or sync the missing or corrupted data back to your PC. DO NOT move the data! BE CAREFUL to set source and destination correct!
@@ -31,7 +31,7 @@ Bulletproof Backups
 --------
 * **A full backup** is performed at first, which is slow for big data. However, from next time on only changes are copied which is extremely fast.
 * **No encryption** is performed to keep it simple and robust. Use an encryption program and a vault to prevent unauthorized access.
-* **[Logbook.csv](DATA/Logbook.csv)** gets updated automatically by the backup scripts (a table in .CSV format containing all the backup details).
+* **[Logbook.csv](docs/Logbook.csv)** gets updated automatically by the backup scripts (a table in .CSV format containing all the backup details).
 * **Test your backups** regularly to ensure that they are working properly. Restore your backups to a test environment and check that all of your data can be accessed as expected.
 * **DISCLAIMER:** All informations are given according to my best knowledge, but without guarantee.
 

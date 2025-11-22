@@ -3,14 +3,14 @@ chcp 65001 >NUL
 title ⏳ Export in Progress...
 
 set "TARGET_FILE=%~dp0..\DATA\My_Apps.json"
-set LOGFILE=..\DATA\Logbook.csv
+set LOGFILE=..\docs\Logbook.csv
 
 cls
 echo.
-echo      _______________________________
+echo      _________________________________
 echo.
-echo          Export Installed Apps
-echo      _______________________________
+echo          Export of Installed Apps
+echo      _________________________________
 echo.
 echo.
 echo.

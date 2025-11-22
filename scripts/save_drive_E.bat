@@ -5,7 +5,7 @@ title ⏳ Backup in Progress...
 set "SOURCE=E:\"
 set "TARGET=%~dp0..\DATA\Drive_E\"
 set OPTIONS=/MIR /FFT /SL /NJH /NFL /xa:o /r:3 /w:10 /unicode
-set LOGFILE=..\DATA\Logbook.csv
+set LOGFILE=..\docs\Logbook.csv
 
 cls
 echo.
