@@ -29,7 +29,7 @@ Bulletproof Backups
 
 💡 Hints
 --------
-* **A full backup** is performed at first, which is slow for big data. However, from next time on only changes are copied which is extremely fast.
+* **A full backup** is performed once (slow for big data). From next time on only changes are copied (extremely fast).
 * **No encryption** is performed to keep it simple and robust. Use an encryption program and a vault to prevent unauthorized access.
 * **[Logbook.csv](docs/Logbook.csv)** gets updated automatically by the backup scripts (a table in .CSV format containing all the backup details).
 * **Test your backups** regularly to ensure that they are working properly. Restore your backups to a test environment and check that all of your data can be accessed as expected.
