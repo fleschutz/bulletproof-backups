@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >NUL
-title ⏳ Export in Progress...
+title ⏳ App export in progress...
 
 set "TARGET_FILE=%~dp0..\DATA\My_Apps.json"
 set LOGFILE=..\docs\Logbook.csv
@@ -38,8 +38,9 @@ echo %DATE%; %TIME%; %COMPUTERNAME%; "Apps"; Completed; >>%LOGFILE%
 title ✅ Apps exported
 echo.
 echo ✅ List of installed apps exported to %TARGET_FILE%.
+echo   For recovery use 'winget import My_Apps.json' to re-install them.
 echo.
-echo 💡 For recovery use 'winget import My_Apps.json' to re-install them.
+echo 💡 Eject the drive properly(!) (when finished) and store it in a separate and secure location!
 echo.
 pause
 exit 0

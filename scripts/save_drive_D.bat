@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >NUL
-title ⏳ Backup in Progress...
+title ⏳ Backup of D: in progress...
 
 set "SOURCE=D:\"
 set "TARGET=%~dp0..\DATA\Drive_D\"
@@ -41,7 +41,7 @@ echo %DATE%; %TIME%; %COMPUTERNAME%; %SOURCE%; Completed; >>%LOGFILE%
 title ✅ Drive D: backed up
 echo ✅ Backup of drive D: completed successfully.
 echo.
-echo 💡 When finished eject the drive properly and store it in a separate(!) and secure(!) location.
+echo 💡 Eject the drive properly(!) (when finished) and store it in a separate and secure location!
 echo.
 pause
 exit 0

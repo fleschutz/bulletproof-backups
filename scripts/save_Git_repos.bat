@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >NUL
-title ⏳ Backup in Progress...
+title ⏳ Repo backup in progress...
 
 set "SOURCE=C:\Repos"
 set "TARGET=%~dp0..\DATA\Git_repos\"
@@ -44,7 +44,7 @@ echo %DATE%; %TIME%; %COMPUTERNAME%; %SOURCE%; Completed; >>%LOGFILE%
 title ✅ Git repos backed up
 echo ✅ Backup of Git repositories completed successfully.
 echo.
-echo 💡 When finished eject the drive properly and store it in a separate(!) and secure(!) location.
+echo 💡 Eject the drive properly(!) (when finished) and store it in a separate and secure location!
 echo.
 pause
 exit 0

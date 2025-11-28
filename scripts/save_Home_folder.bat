@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >NUL
-title ⏳ Backup in Progress...
+title ⏳ Home backup in progress...
 
 set "SOURCE=%HOMEDRIVE%%HOMEPATH%\"
 set "TARGET=%~dp0..\DATA\Home_dir\"
@@ -43,7 +43,7 @@ echo %DATE%; %TIME%; %COMPUTERNAME%; %SOURCE%; Completed; >>%LOGFILE%
 title ✅ Home folder backed up
 echo ✅ Backup of Home folder completed successfully.
 echo.
-echo 💡 When finished eject the drive properly and store it in a separate(!) and secure(!) location.
+echo 💡 Eject the drive properly(!) (when finished) and store it in a separate and secure location!
 echo.
 pause
 exit 0
