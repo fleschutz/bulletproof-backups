@@ -11,7 +11,7 @@ cls
 echo.
 echo      ______________________________
 echo.
-echo          Backup of Home Folder
+echo           Home Folder Backup
 echo      ______________________________
 echo.
 echo.
@@ -19,11 +19,13 @@ echo.
 echo This script will copy your Home folder...
 echo.
 echo.
-echo        FROM: %SOURCE%
+echo         FROM: %SOURCE%
 echo.
-echo          TO: %TARGET%
+echo           TO: %TARGET%
 echo.
-echo     OPTIONS: %OPTIONS% (for robocopy)
+echo        USING: robocopy
+echo.
+echo WITH OPTIONS: %OPTIONS%
 echo.
 echo.
 echo.
@@ -33,7 +35,7 @@ echo.
 echo.
 echo.
 echo Hold on to start the backup... (or abort with [Ctrl] [C])
-timeout 5
+timeout 9
 
 echo %DATE%; %TIME%; %COMPUTERNAME%; %SOURCE%; Started; >>%LOGFILE%
 if not exist "%TARGET%" mkdir "%TARGET%"
@@ -41,9 +43,9 @@ robocopy %SOURCE% %TARGET% %OPTIONS%
 echo %DATE%; %TIME%; %COMPUTERNAME%; %SOURCE%; Completed; >>%LOGFILE%
 
 title ✅ Home folder backed up
-echo ✅ Backup of Home folder completed successfully.
+echo ✅ Backup of your Home folder completed successfully.
 echo.
-echo 💡 Eject the drive properly(!) (when finished) and store it in a separate and secure location!
+echo 💡 Eject the drive properly (when finished) and store it in a separate and secure location!
 echo.
 pause
 exit 0
