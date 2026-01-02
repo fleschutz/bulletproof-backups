@@ -1,6 +1,6 @@
 Bulletproof Backups
 ===================
-**It's invisible but the risk of DATA LOSS threatens our valuable digital media on every device (from smartphones, tablets, computers, up to entire data centers). Prevent this from today on with regular data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
+**It's invisible but the risk of DATA LOSS threatens our valuable digital media on every single device (from smartphones, tablets, computers, up to entire data centers). Prevent this from today on with regular data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
 
 📋 Planning & Preparation
 --------------------------
