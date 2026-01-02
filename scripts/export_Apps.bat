@@ -9,17 +9,18 @@ cls
 echo.
 echo      _________________________________
 echo.
-echo          Export of Installed Apps
+echo            Export List of Apps
 echo      _________________________________
 echo.
 echo.
 echo.
-echo This script exports a list of your installed applications...
+echo This script will export a list of your installed applications...
 echo.
 echo.
 echo.
-echo   TO: %TARGET_FILE%
+echo       TO: %TARGET_FILE%
 echo.
+echo    USING: winget
 echo.
 echo.
 echo.
@@ -29,7 +30,7 @@ echo.
 echo.
 echo.
 echo Hold on to start the backup... (or abort with [Ctrl] [C])
-timeout 5
+timeout 9
 
 echo %DATE%; %TIME%; %COMPUTERNAME%; "Apps"; Started; >>%LOGFILE%
 winget export -o %TARGET_FILE%
