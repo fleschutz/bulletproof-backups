@@ -1,4 +1,4 @@
-![image](folder.jpg) The 3-2-1 Rule
+![image](backup.jpg) The 3-2-1 Rule
 ===================================
 
 The 3-2-1 backup rule is a simple, effective strategy for keeping your data safe. It advises that you keep three copies of your data on two different media with one copy off-site. Let’s break that down:
