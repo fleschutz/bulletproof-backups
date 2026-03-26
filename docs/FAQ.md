@@ -59,6 +59,11 @@ When deciding on a backup data storage strategy, there are different types of da
 **It advises that you keep three copies of your data on two different media with one copy off-site.** Please read [3-2-1_rule.md](3-2-1_rule.md) for more information.
 </details>
 
+<details><summary>Should I care about file formats?</summary>
+
+Yes, if you want to be able to open your family photos in 20 years. Please read [File formats.md](File formats.md) for more information.
+</details>
+
 <details><summary>How to handle hard drives?</summary>
 
 Hard drives can easily be damaged by too much physical force, extreme temperatures, or from Electrostatic Discharge (ESD). Special handling is required to protect them from damage:
