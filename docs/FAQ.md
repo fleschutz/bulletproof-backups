@@ -12,7 +12,7 @@
 
 <details><summary>How can data loss happen?</summary>
 
-**Data loss essentially refers to the destruction of data. It can be intentional, but it’s often not. It can be caused by many things:**
+**Unfortunately, data loss (= destruction of data) can be caused by many things:**
 
 * **Drive crash** - A harddisk or SSD has suddenly stopped working and you’re unable to access your data.
 * **System failure** - A critical hardware component has malfunctioned (e.g. a RAID card) and you’re unable to access your data.
