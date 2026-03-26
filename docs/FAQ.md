@@ -31,7 +31,7 @@
 
 <details><summary>What kind of data need a backup?</summary>
 
-Back up everything that can't be replaced if it's lost. For individuals, it's your entire digital life:
+**Back up everything that can't be replaced if it's lost.** For individuals, it's your entire digital life:
 
 * **Communication** such as: address books, emails, messenger chats, and so on.
 * **Memories** such as: pictures, family photos, travels, videos, etc.
