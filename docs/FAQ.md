@@ -1,5 +1,5 @@
-![image](backup.jpg) Backup FAQ's
-=================================
+![image](backup.jpg) Backup FAQ
+================================
 
 
 <details><summary>Why back up at all?</summary>
