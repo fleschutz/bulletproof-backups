@@ -98,7 +98,7 @@ In the meantime (which may last days/weeks/months) your backup is out of reach.
 
 <details><summary>When is World Backup Day?</summary>
   
-World Backup Day is March 31st but don't wait: Perform the backup today!
+World Backup Day is **March 31st** but don't wait: Perform the backup today!
 </details>
 
 
