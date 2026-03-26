@@ -54,6 +54,11 @@ When deciding on a backup data storage strategy, there are different types of da
 * **Incremental backups:** Like a differential backup, incremental backups also only back up data that has been changed or added since the last backup. The difference is that incremental backups will back up any changed data since the last backup, whether it was a full, differential, or incremental backup. These types of backups are often performed by backup software because they can be done frequently due to their small size and fast backup time. 
 </details>
 
+<details><summary>What's the 3-2-1 rule?</summary>
+
+See [3-2-1_rule.md](3-2-1_rule.md) for more information.
+</details>
+
 <details><summary>How to handle hard drives?</summary>
 
 Hard drives can easily be damaged by too much physical force, extreme temperatures, or from Electrostatic Discharge (ESD). Special handling is required to protect them from damage:
