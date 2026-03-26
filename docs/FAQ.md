@@ -56,7 +56,7 @@ When deciding on a backup data storage strategy, there are different types of da
 
 <details><summary>What's the 3-2-1 rule?</summary>
 
-See [3-2-1_rule.md](3-2-1_rule.md) for more information.
+It advises that you keep three copies of your data on two different media with one copy off-site. Please read [3-2-1_rule.md](3-2-1_rule.md) for more information.
 </details>
 
 <details><summary>How to handle hard drives?</summary>
