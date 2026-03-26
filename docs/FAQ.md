@@ -61,7 +61,7 @@ When deciding on a backup data storage strategy, there are different types of da
 
 <details><summary>Should I care about file formats?</summary>
 
-Yes, if you want to be able to open your family photos in 20 years. Please read [File formats.md](File formats.md) for more information.
+**Yes, if you want to be able to open your family photos in 20 years.** Please read [File_formats.md](File_formats.md) for more information.
 </details>
 
 <details><summary>How to handle hard drives?</summary>
