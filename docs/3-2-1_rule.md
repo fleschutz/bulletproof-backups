@@ -1,6 +1,5 @@
-![image](backup.jpg) The 3-2-1 Rule
-===================================
-
+![image](backup.jpg) The 3-2-1 Backup Rule
+==========================================
 The 3-2-1 backup rule is a simple, effective strategy for keeping your data safe. It advises that you keep three copies of your data on two different media with one copy off-site. Let’s break that down:
 
 - **3** copies of your data: Your three copies include your original or production data plus two more copies.
@@ -11,16 +10,14 @@ If you want to protect your personal information, photos, or other important dat
 
 How Does the 3-2-1 Rule Work?
 -----------------------------
+Let’s say you took a picture of the Eiffel tower in Paris years ago — that file is called “`Eiffel_tower.jpg`” and it lives on your computer at home. That’s the first “copy” of your data.
 
-Let’s say you took a picture of your social security card for your tax accountant years ago—that file is called “`socialsecurity.jpg`” and it lives on your computer at home. That’s the first “copy” of your data.
+You also have an external hard drive at home, used to back up your PC's data. That external hard drive will back up `Eiffel_tower.jpg` as part of its backup process. That’s the second copy on a different device or medium.
 
-You also have an external hard drive at home, used to back up your [go-to Mac](https://www.backblaze.com/cloud-backup/personal/mac-online-backup) or gaming [PC](https://www.backblaze.com/cloud-backup/personal/windows-online-backup). That external hard drive will back up `socialsecurity.jpg` as part of its backup process. That’s a second copy on a different device or medium.
-
-In addition to that external hard drive, you also have an [online backup solution](https://www.backblaze.com/cloud-backup). The online backup continuously scans your computer and uploads your data to the cloud (which, in layman’s terms, is an off-site data center). `Socialsecurity.jpg` is included in this upload, becoming the third copy of your data.
+Additionally, you also have a [cloud backup solution](https://www.backblaze.com/cloud-backup). The online backup continuously scans your computer and uploads your data to the cloud. `Eiffel_tower.jpg` is included in this upload, becoming the third copy of your data.
 
 The Easiest 3-2-1 Backup
 ------------------------
-
 If you back up your home computer to an external hard drive and back both of those devices up to the cloud using something like [Backblaze Computer Backup](https://www.backblaze.com/cloud-backup), congratulations: You have achieved a 3-2-1 backup. 
 
 - You have **three** copies of your data: One on your computer, one on your hard drive, and one in the cloud.
