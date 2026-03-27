@@ -45,7 +45,7 @@ For businesses, data backup options become a bit more technical — think of cus
 
 <details><summary>What's the 3-2-1 rule?</summary>
 
-**It advises that you keep three copies of your data on two different media with one copy off-site.** Please read [3-2-1_rule.md](3-2-1_rule.md) for more information.
+It advises that you **keep 3 copies of your data on 2 different media with 1 copy off-site.** Please read [3-2-1_rule.md](3-2-1_rule.md) for more information.
 </details>
 
 <details><summary>What types of data backups are available?</summary>
