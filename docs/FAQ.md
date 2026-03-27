@@ -29,18 +29,23 @@
 * **Bit rot** - The gradual corruption of data due to an accumulation of non-critical failures in a data storage device.
 </details>
 
-<details><summary>What kind of data need a backup?</summary>
+<details><summary>Which data need a backup?</summary>
 
 **Back up anything that you can't easily replace!** For individuals, it's the entire digital life:
 
-* **Communication** such as: address books, emails, messenger chats, and so on.
-* **Memories** such as: pictures, family photos, travels, videos, etc.
-* **Digital favorites** such as: books, music albums, singles, playlists, wallpaper, ringtones, etc.
-* **Your work** such as: documents, spreadsheets, financial databases, source code, CAD drawings, etc.
-* **Digital keys** for the office, VPN, internet shops and services, etc.
-* **Digital wallets** with BitCoins, Ethereums, etc.
+* **Digital keys** - credentials to the office, internet shops, software, services, VPN login, etc.
+* **Digital wallets** with BitCoins, Ethereums, etc. 
+* **Work & projects** - documents, spreadsheets, financial databases, source code, CAD drawings, etc.
+* **Memories** - pictures, family photos, travels, videos, etc.
+* **Digital favorites** - books, music albums, singles, playlists, wallpaper, ringtones, etc.
+* **Communication** - address books, emails, messenger chats, and so on.
 
-For businesses, data backup options become a bit more technical — think of backing up customer databases, configuration files, machine images, operating systems, and registry files — and there’s typically an IT department in place to manage them.
+For businesses, data backup options become a bit more technical — think of customer databases, configuration files, machine images, operating systems, and registry files — and there’s typically an IT department in place to manage them.
+</details>
+
+<details><summary>What's the 3-2-1 rule?</summary>
+
+**It advises that you keep three copies of your data on two different media with one copy off-site.** Please read [3-2-1_rule.md](3-2-1_rule.md) for more information.
 </details>
 
 <details><summary>What types of data backups are available?</summary>
@@ -54,10 +59,6 @@ When deciding on a backup data storage strategy, there are different types of da
 * **Incremental backups:** Like a differential backup, incremental backups also only back up data that has been changed or added since the last backup. The difference is that incremental backups will back up any changed data since the last backup, whether it was a full, differential, or incremental backup. These types of backups are often performed by backup software because they can be done frequently due to their small size and fast backup time. 
 </details>
 
-<details><summary>What's the 3-2-1 rule?</summary>
-
-**It advises that you keep three copies of your data on two different media with one copy off-site.** Please read [3-2-1_rule.md](3-2-1_rule.md) for more information.
-</details>
 
 <details><summary>Should I care about file formats?</summary>
 
