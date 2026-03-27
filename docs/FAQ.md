@@ -31,14 +31,14 @@
 
 <details><summary>What kind of data need a backup?</summary>
 
-**Back up everything that can't be replaced if it's lost.** For individuals, it's your entire digital life:
+**Back up anything that you can't easily replace!** For individuals, it's the entire digital life:
 
 * **Communication** such as: address books, emails, messenger chats, and so on.
 * **Memories** such as: pictures, family photos, travels, videos, etc.
 * **Digital favorites** such as: books, music albums, singles, playlists, wallpaper, ringtones, etc.
 * **Your work** such as: documents, spreadsheets, financial databases, source code, CAD drawings, etc.
-* **Digital wallet** with BitCoins, Ethereums, etc.
-* **Digital keys** for the office, internet shops and services, etc.
+* **Digital keys** for the office, VPN, internet shops and services, etc.
+* **Digital wallets** with BitCoins, Ethereums, etc.
 
 For businesses, data backup options become a bit more technical — think of backing up customer databases, configuration files, machine images, operating systems, and registry files — and there’s typically an IT department in place to manage them.
 </details>
