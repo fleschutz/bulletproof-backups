@@ -2,9 +2,9 @@
 ==========================================
 The 3-2-1 backup rule is a simple, effective strategy for keeping your data safe. It advises that you keep three copies of your data on two different media with one copy off-site. Let’s break that down:
 
-- **3** copies of your data: Your three copies include your original or production data plus two more copies.
-- On **2** different media: You should store your data on two different forms of media. This means something different today than it did in the late 2000s. I’ll talk a little more about this in a bit.
-- **1** copy off-site: You should keep one copy of your data off-site in a remote location, ideally more than a few miles away from your other two copies.
+- **3 copies** of your data: Your three copies include your original or production data plus two more copies.
+- On **2 different media**: You should store your data on two different forms of media. This means something different today than it did in the late 2000s. I’ll talk a little more about this in a bit.
+- **1 copy off-site**: You should keep one copy of your data off-site in a remote location, ideally more than a few miles away from your other two copies.
 
 If you want to protect your personal information, photos, or other important data, the 3-2-1 backup strategy is the way to go. It helps you avoid having a single point of failure that’s vulnerable to human error, hard drive crashes, theft, natural disasters, or ransomware attacks.
 
