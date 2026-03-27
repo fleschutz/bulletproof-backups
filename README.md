@@ -4,12 +4,12 @@ Bulletproof Backups
 
 📋 Planning & Preparation
 --------------------------
-- [x] **[Read the FAQ](docs/FAQ.md)** to plan your backup strategy, recommended is the [3-2-1 rule](docs/3-2-1_rule.md).
-- [x] **[Fetch hard drives](https://www.amazon.com/s?k=harddisk)** with enough capacity (use different vendors/models/types and maybe rugged ones).
+- [x] **Read** the [FAQ](docs/FAQ.md) to plan your backup strategy, recommended is the [3-2-1 rule](docs/3-2-1_rule.md).
+- [x] **Fetch** [hard drives](https://www.amazon.com/s?k=harddisk) with enough capacity (use different vendors/models/types and maybe rugged ones).
 - [x] **Check** the hard drives for errors and use error-free ones only.
-- [x] **Choose** unique names (e.g. "Backup #1 (4TB)") and label the hard drives with it.
+- [x] **Label** the hard drives with unique names, e.g. "Backup #1 (4TB)".
 - [x] **Connect** the hard drives to the PC and rename them accordingly.
-- [x] **[Download this repo](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/v1.0.zip)** (5.8MB), unzip it, and copy it as 📁*bulletproof-backups* folder onto each hard drive.
+- [x] **Download** this [repository (5.8MB)](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/v1.0.zip), unzip it, and copy it as 📁*bulletproof-backups* folder onto each hard drive.
 - [x] **Set up a reminder** in your digital calendar to perform the backup every day/week/month/etc.
 
 ▶️ Perform the Backup
