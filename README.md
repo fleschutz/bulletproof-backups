@@ -9,7 +9,7 @@ Bulletproof Backups
 - [x] **Check** the hard drives for errors and use error-free ones only.
 - [x] **Label** the hard drives with unique names, e.g. "Video backup #1 (4TB)".
 - [x] **Connect** the hard drives to the PC and rename them accordingly.
-- [x] **Download** this [repository (5.8MB)](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/v1.0.zip), unzip it, and copy it as 📁*bulletproof-backups* folder onto each hard drive.
+- [x] **Download** this [repository (5.8MB)](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/v1.0.zip), unzip it, and copy the folder as 📁*bulletproof-backups* onto each hard drive.
 - [x] **Set up a reminder** in your digital calendar to perform the backup every day/week/month/etc.
 
 ▶️ Perform the Backup
