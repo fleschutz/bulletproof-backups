@@ -5,7 +5,7 @@ Bulletproof Backups
 📋 Planning & Preparation
 --------------------------
 - [x] **Read** the [FAQ](docs/FAQ.md) to plan your backup strategy, recommended is the [3-2-1 rule](docs/3-2-1_rule.md).
-- [x] **Fetch** [hard drives](https://www.amazon.com/s?k=harddisk) with enough capacity (use different vendors/models/types and maybe rugged ones).
+- [x] **Fetch** [hard drives](https://www.amazon.com/s?k=harddisk) with enough capacity (use different vendors/models/types and maybe even rugged ones).
 - [x] **Check** the hard drives for errors and use error-free ones only.
 - [x] **Label** the hard drives with unique names, e.g. "Video backup #1 (4TB)".
 - [x] **Connect** the hard drives to the PC and rename them accordingly.
@@ -29,10 +29,10 @@ Bulletproof Backups
 
 💡 Hints
 --------
-* **A full backup** is performed once (slow for big data). From next time on only changes are copied (extremely fast).
+* **At first** a full backup is performed (slow for big data), but next time only changes get copied (extremely fast).
 * **No encryption** is performed to keep it simple and robust. Use an encryption program and a vault to prevent unauthorized access.
 * **[Logbook.csv](docs/Logbook.csv)** gets updated automatically by the backup scripts (a table in .CSV format containing all the backup details).
-* **Test your backups** regularly to ensure that they are working properly. Restore your backups to a test environment and check that all of your data can be accessed as expected.
+* **Test** your backups regularly to ensure that they are working properly. Restore your backups to a test environment and check that all of your data can be accessed as expected.
 * **DISCLAIMER:** All informations are given according to my best knowledge, but without guarantee.
 
 🤝 Contributing
