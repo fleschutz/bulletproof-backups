@@ -1,4 +1,4 @@
-![image](backup.jpg) Backup FAQ
+![image](backup.jpg) Backup FAQs
 ================================
 
 

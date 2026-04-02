@@ -4,7 +4,7 @@ Bulletproof Backups
 
 📋 Planning & Preparation
 --------------------------
-- [x] **Read** the [FAQ](docs/FAQ.md) to plan your backup strategy, recommended is the [3-2-1 rule](docs/3-2-1_rule.md).
+- [x] **Read** the [FAQs](docs/FAQs.md) to plan your backup strategy, recommended is the [3-2-1 rule](docs/3-2-1_rule.md).
 - [x] **Fetch** [hard drives](https://www.amazon.com/s?k=harddisk) with enough capacity (use different vendors/models/types and maybe even rugged ones).
 - [x] **Check** the hard drives for errors and use error-free ones only.
 - [x] **Label** the hard drives with unique names, e.g. "Video backup #1 (4TB)".
