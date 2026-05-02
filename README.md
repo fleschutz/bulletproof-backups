@@ -1,5 +1,5 @@
-Bulletproof Backups
-===================
+🛡️ Bulletproof Backups
+======================
 **The risk of DATA LOSS threatens our valuable digital data EVERYWHERE - no smartphone, tablet, PC, or data center is 100% safe! Luckily, this can easily be prevented by data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
 
 📋 Planning & Preparation
