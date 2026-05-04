@@ -4,7 +4,7 @@
 
 For example the original proposal for the World Wide Web (WWW), written by Tim Berners-Lee in 1989, is an important piece of internet history. However, this Word document can't be opened on modern computers.
 
-💡 Solution is to use **standard** file systems, partitions, file formats, and file suffixes only and to avoid all the non-standard/proprietary/exotic ones!
+The only solution is to use **standard** file systems/partitions/file formats/file suffixes and to avoid all the non-standard/proprietary/exotic ones!
 
 ✅ Recommended File Formats
 ----------------------------
