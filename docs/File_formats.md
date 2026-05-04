@@ -9,7 +9,7 @@ The only solution is to use **standard** file systems/partitions/file formats/fi
 ✅ Recommended File Formats
 ----------------------------
 
-| Format        | Description            | Reason                              | 
+| Format        | Description            | Reason for Recommendation           | 
 | ------------- | ---------------------- | ----------------------------------- |
 | .CSV          | Spreadsheet table      | based on ASCII                      |
 | .DNG          | Digital Negative image | open format                         |
