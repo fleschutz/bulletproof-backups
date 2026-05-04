@@ -9,16 +9,16 @@ The only solution is to use **standard** file systems/partitions/file formats/fi
 ✅ Recommended File Formats
 ----------------------------
 
-| Format        | Description            | Reason for Recommendation           | 
-| ------------- | ---------------------- | ----------------------------------- |
-| .CSV          | Spreadsheet table      | based on ASCII                      |
-| .DNG          | Digital Negative image | open format                         |
-| .HTML         | Web page               | based on ASCII                      |
-| .INI          | Program settings       | based on ASCII                      |
-| .JPG/PNG/TIFF | Photo                  | standard (not lossless, keep generation loss in mind) |
-| .MD           | Markdown text          | ASCII/Unicode based, RFC 7763       | 
-| PDF/A         | Adobe's PDF format     | open standard, includes everything  |
-| .TXT          | Text                   | based on ASCII/Unicode              | 
+| Format        | Description            | Reason for Recommendation                                                | 
+| ------------- | ---------------------- | ------------------------------------------------------------------------ |
+| .CSV          | Spreadsheet table      | ASCII based ([RFC 4180](https://www.rfc-editor.org/rfc/rfc4180))         |
+| .DNG          | Digital Negative image | open format                                                              |
+| .HTML         | Web page               | based on ASCII                                                           |
+| .INI          | Program settings       | based on ASCII                                                           |
+| .JPG/PNG/TIFF | Photo                  | standard (not lossless, keep generation loss in mind)                    |
+| .MD           | Markdown text          | ASCII/Unicode based ([RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)) | 
+| PDF/A         | Adobe's PDF format     | open standard, includes everything                                       |
+| .TXT          | Text                   | based on ASCII/Unicode                                                   | 
 
 
 ❌ File Formats to Avoid
