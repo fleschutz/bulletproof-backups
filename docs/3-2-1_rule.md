@@ -1,5 +1,5 @@
-![image](backup.jpg) The 3-2-1 Backup Rule
-==========================================
+🛡️ The 3-2-1 Backup Rule
+=========================
 The 3-2-1 backup rule is a simple, effective strategy for keeping your data safe. It advises that you keep three copies of your data on two different media with one copy off-site. Let’s break that down:
 
 - **3 copies** of your data: Your three copies include your original or production data plus two more copies.
