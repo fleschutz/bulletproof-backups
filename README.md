@@ -1,14 +1,14 @@
 🛡️ Bulletproof Backups
 ======================
-**The risk of DATA LOSS threatens our valuable digital data - no smartphone, no PC, no data center is 100% safe! Luckily, this can be prevented by data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
+**The *risk of data loss* threatens our valuable digital data - no smartphone, no PC, no data center is 100% safe! Luckily, this can be prevented by data backups performed *on site* for quick recovery and kept *offline* to prevent ransomware attacks.**
 
 📋 Planning & Preparation
 --------------------------
 - [x] **Read** the [FAQs](docs/FAQs.md) to plan your backup strategy, recommended is the [3-2-1 rule](docs/3-2-1_rule.md).
 - [x] **Fetch** [hard drives](https://www.amazon.com/s?k=harddisk) with enough capacity (use different vendors/models/types and maybe even rugged ones).
-- [x] **Check** the hard drives for errors and use error-free ones only.
-- [x] **Label** the hard drives with unique names, e.g. "Video backup #1 (4TB)".
-- [x] **Connect** the hard drives to the PC and rename them accordingly.
+- [x] **Check** each hard drive for errors and use error-free ones only.
+- [x] **Label** each hard drive with an unique name, e.g. "Video backup #1 (4TB)".
+- [x] **Connect** each hard drive to the PC and rename it accordingly.
 - [x] **Download** this [repository (5.8MB)](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/1.1.zip), unzip it, and copy it as 'bulletproof-backups' folder onto each hard drive.
 - [x] **Set up a reminder** in your digital calendar to perform the backup, e.g. every week on Friday.
 
