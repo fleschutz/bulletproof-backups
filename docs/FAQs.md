@@ -1,6 +1,7 @@
-![image](backup.jpg) Backup FAQs
-================================
+🛡️ Bulletproof Backup FAQs
+===========================
 
+<sub>(click to expand)</sub>
 
 <details><summary>Why back up at all?</summary>
 
