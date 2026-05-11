@@ -8,7 +8,7 @@
 - [x] **Fetch** [hard drives](https://www.amazon.com/s?k=harddisk) with enough capacity from different vendors and models (maybe even rugged ones).
 - [x] **Check** each hard drive for errors and use error-free ones only.
 - [x] **Label** and rename each hard drive with an unique name, e.g. "Video backup #1 (4TB)".
-- [x] **Download** this [repository (5.8MB)](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/1.1.zip), unzip it, and copy it as 'bulletproof-backups' folder onto each hard drive.
+- [x] **Download** this [repository (5.8MB)](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/1.1.zip), unzip it, and copy it as 📁*bulletproof-backups* folder onto each hard drive.
 - [x] **Optional:** Check your [file formats](docs/File_formats.md).  
 - [x] **Set up a reminder** in your digital calendar to perform the backup, e.g. every week on Friday.
 
