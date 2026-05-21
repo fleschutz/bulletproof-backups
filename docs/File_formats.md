@@ -21,7 +21,7 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 | .OD*          | Open Document Format       | ISO/IEC 26300 standard                                                   |
 | PDF/A         | Portable Document Format   | open standard, includes everything                                       |
 | .TXT          | Text (pure)                | based on ASCII/Unicode                                                   | 
-| .XML          | Extensible Markup Language | open standard based on UTF-8                                             |
+| .XML          | Extensible Markup Language | open standard derived from SGML (ISO 8879)                               |
 
 ❌ File Formats to Avoid
 -------------------------
