@@ -13,7 +13,7 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 | ------------- | -------------------------- | ------------------------------------------------------------------------ |
 | .CSV          | Spreadsheet table          | ASCII based ([RFC 4180](https://www.rfc-editor.org/rfc/rfc4180))         |
 | .DNG          | Digital Negative image     | open format                                                              |
-| .HTML         | Web page                   | standard by [World Wide Web Consortium (W3C)](https://www.w3.org/)       |
+| .HTML         | Web page                   | open standard by [World Wide Web Consortium (W3C)](https://www.w3.org/)  |
 | .INI          | Program settings           | based on ASCII                                                           |
 | .JPG/PNG/TIFF | Single image               | standard (not lossless! keep generation loss in mind)                    |
 | .MD           | Markdown text              | ASCII/Unicode based ([RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)) | 
