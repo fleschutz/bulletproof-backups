@@ -16,11 +16,12 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 | .HTML         | Web page                   | open standard by [World Wide Web Consortium (W3C)](https://www.w3.org/)  |
 | .INI          | Program settings           | based on ASCII                                                           |
 | .JPG/PNG/TIFF | Single image               | standard (not lossless! keep generation loss in mind)                    |
-| .MD           | Markdown text              | ASCII/Unicode based ([RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)) | 
+| .M3U          | Playlist                   | simple ASCII/Unicode lines                                               |
+| .MD           | Markdown                   | ASCII/Unicode based ([RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)) | 
 | .MP3          | Audio recording            | ISO/IEC 11172-3, ISO/IEC 13818-3 (not lossless)                          |
 | .OD*          | Open Document Format       | ISO/IEC 26300 standard                                                   |
-| PDF/A         | Portable Document Format   | open standard, includes everything                                       |
-| .TXT          | Text (pure)                | based on ASCII/Unicode                                                   | 
+| .PDF          | Portable Document Format   | open standard, includes everything                                       |
+| .TXT          | Pure text                  | simple ASCII/Unicode lines                                               | 
 | .XML          | Extensible Markup Language | open standard derived from SGML (ISO 8879)                               |
 
 ❌ File Formats to Avoid
