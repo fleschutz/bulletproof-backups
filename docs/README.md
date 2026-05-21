@@ -1,3 +1,4 @@
-The Documents Folder
-====================
-**This folder contains documents to plan and to prepare your backup.**
+🛡️ The Documents Folder
+========================
+
+This folder contains useful documents to plan, to prepare, and to repair your data backups.
