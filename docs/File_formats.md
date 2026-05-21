@@ -9,7 +9,7 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 ✅ Recommended File Formats
 ----------------------------
 
-| Format        | Description                | Reason for Recommendation                                                | 
+| Suffix        | File Format                | Reason for Recommendation                                                | 
 | ------------- | -------------------------- | ------------------------------------------------------------------------ |
 | .CSV          | Spreadsheet table          | ASCII based ([RFC 4180](https://www.rfc-editor.org/rfc/rfc4180))         |
 | .DNG          | Digital Negative           | open source, lossless standard (ISO 12234-4:2026)                        |
@@ -26,7 +26,7 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 ❌ File Formats to Avoid
 -------------------------
 
-| Format | Description                | Reason                         |
+| Suffix | File Format                | Reason                         |
 | ------ | -------------------------- | ------------------------------ |
 | .DLL   | Dynamic linked library     | proprietary (Windows x86 only) |
 | .DOC   | Microsoft Word text        | proprietary                    |
