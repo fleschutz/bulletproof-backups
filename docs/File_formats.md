@@ -21,7 +21,7 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 | .MP3          | Audio recording            | ISO/IEC 11172-3, ISO/IEC 13818-3 (not lossless)                          |
 | .OD*          | Open Document Format       | ISO/IEC 26300 standard                                                   |
 | .PDF          | Portable Document Format   | open standard, includes everything                                       |
-| .TXT          | Pure text                  | simple ASCII/Unicode lines                                               | 
+| .TXT          | Text only                  | simple ASCII/Unicode lines                                               | 
 | .XML          | Extensible Markup Language | open standard derived from SGML (ISO 8879)                               |
 
 ❌ File Formats to Avoid
