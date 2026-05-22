@@ -30,7 +30,7 @@
 * **Bit rot** - The gradual corruption of data due to an accumulation of non-critical failures in a data storage device.
 </details>
 
-<details><summary>Which data need a backup?</summary>
+<details><summary>What kind of data need a backup?</summary>
 
 **Back up anything that you can't easily replace!** For individuals, it's the entire digital life:
 
