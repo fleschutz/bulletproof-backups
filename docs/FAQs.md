@@ -107,6 +107,14 @@ In a real disaster the internet is the first thing that doesn't work and afterwa
 In the meantime your backup is out of reach (for days or even for weeks).
 </details>
 
+<details><summary>Where to store backup media?</summary>
+  
+**Please consider the following options:**
+
+1. In a fire-rated safe deposit box at an off-site location like a bank.
+2. In a vault at home.
+3. In a fireproof document box at home.
+</details>
 
 <details><summary>When is World Backup Day?</summary>
   
