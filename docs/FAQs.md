@@ -104,7 +104,7 @@ No problem, as long as there is enough disk space left for the backups.
 <details><summary>Why not use a cloud backup only?</summary>
   
 In a real disaster the internet is the first thing that doesn't work and afterward it's the last thing that will be up and running.
-In the meantime (which may last days/weeks/months) your backup is out of reach.
+In the meantime your backup is out of reach (for days or even for weeks).
 </details>
 
 
