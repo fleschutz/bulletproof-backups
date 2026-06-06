@@ -11,26 +11,26 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 
 | Suffix        | File Format                | Reason for Recommendation                                                | 
 | ------------- | -------------------------- | ------------------------------------------------------------------------ |
-| .CSV          | Spreadsheet table          | ASCII based ([RFC 4180](https://www.rfc-editor.org/rfc/rfc4180))         |
-| .DNG          | Digital Negative           | open source, lossless standard (ISO 12234-4:2026)                        |
-| .HTML         | Web page                   | open standard by [World Wide Web Consortium (W3C)](https://www.w3.org/)  |
-| .INI          | Program settings           | based on ASCII                                                           |
+| `.csv`        | Spreadsheet table          | ASCII based ([RFC 4180](https://www.rfc-editor.org/rfc/rfc4180))         |
+| `.dng`        | Digital Negative           | open source, lossless standard (ISO 12234-4:2026)                        |
+| `.html`       | Web page                   | open standard by [World Wide Web Consortium (W3C)](https://www.w3.org/)  |
+| `.ini`        | Program settings           | based on ASCII                                                           |
 | .JPG/PNG/TIFF | Single image               | standard (not lossless! keep generation loss in mind)                    |
-| .M3U          | Playlist                   | simple ASCII/Unicode lines                                               |
-| .MD           | Markdown                   | ASCII/Unicode based ([RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)) | 
-| .MP3          | Audio recording            | ISO/IEC 11172-3, ISO/IEC 13818-3 (not lossless)                          |
+| `.m3u`        | Playlist                   | simple ASCII/Unicode lines                                               |
+| `.md`         | Markdown                   | ASCII/Unicode based ([RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)) | 
+| `.mp3`        | Audio recording            | ISO/IEC 11172-3, ISO/IEC 13818-3 (not lossless)                          |
 | .OD*          | Open Document Format       | ISO/IEC 26300 standard                                                   |
-| .PDF          | Portable Document Format   | open standard, includes everything                                       |
-| .TXT          | Text only                  | simple ASCII/Unicode lines                                               | 
-| .XML          | Extensible Markup Language | open standard derived from SGML (ISO 8879)                               |
+| `.pdf`        | Portable Document Format   | open standard, includes everything                                       |
+| `.txt`        | Text only                  | simple ASCII/Unicode lines                                               | 
+| `.xml`        | Extensible Markup Language | open standard derived from SGML (ISO 8879)                               |
 
 ❌ File Formats to Avoid
 -------------------------
 
 | Suffix | File Format                | Reason                         |
 | ------ | -------------------------- | ------------------------------ |
-| .DLL   | Dynamic linked library     | proprietary (Windows x86 only) |
-| .DOC   | Microsoft Word text        | proprietary                    |
-| .EXE   | Program executable         | proprietary (Windows x86 only) |
+| `.dll` | Dynamic linked library     | proprietary (Windows x86 only) |
+| `.doc` | Microsoft Word text        | proprietary                    |
+| `.exe` | Program executable         | proprietary (Windows x86 only) |
 | .XLS   | Microsoft Excel table      | proprietary                    | 
 | .RAW   | Raw image format           | highly proprietary per camera  |
