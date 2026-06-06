@@ -15,11 +15,11 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 | `.dng`        | Digital Negative           | open source, lossless standard (ISO 12234-4:2026)                        |
 | `.html`       | Web page                   | open standard by [World Wide Web Consortium (W3C)](https://www.w3.org/)  |
 | `.ini`        | Program settings           | based on ASCII                                                           |
-| .JPG/PNG/TIFF | Single image               | standard (not lossless! keep generation loss in mind)                    |
+| `.jpg/.png/.tif` | Single image               | standard (not lossless! keep generation loss in mind)                    |
 | `.m3u`        | Playlist                   | simple ASCII/Unicode lines                                               |
 | `.md`         | Markdown                   | ASCII/Unicode based ([RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)) | 
 | `.mp3`        | Audio recording            | ISO/IEC 11172-3, ISO/IEC 13818-3 (not lossless)                          |
-| .OD*          | Open Document Format       | ISO/IEC 26300 standard                                                   |
+| `.od*`        | Open Document Format       | ISO/IEC 26300 standard                                                   |
 | `.pdf`        | Portable Document Format   | open standard, includes everything                                       |
 | `.txt`        | Text only                  | simple ASCII/Unicode lines                                               | 
 | `.xml`        | Extensible Markup Language | open standard derived from SGML (ISO 8879)                               |
