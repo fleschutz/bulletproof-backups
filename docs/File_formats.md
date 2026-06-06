@@ -32,5 +32,5 @@ For example the original proposal for the World Wide Web (WWW), written by Tim B
 | `.dll`      | Dynamic linked library     | proprietary (Windows x86 only) |
 | `.doc`      | Microsoft Word text        | proprietary                    |
 | `.exe`      | Program executable         | proprietary (Windows x86 only) |
-| .XLS   | Microsoft Excel table      | proprietary                    | 
-| .RAW   | Raw image format           | highly proprietary per camera  |
+| `.xls`      | Microsoft Excel table      | proprietary                    | 
+| `.raw`      | Raw image format           | highly proprietary per camera  |
