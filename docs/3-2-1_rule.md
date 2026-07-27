@@ -12,7 +12,7 @@ How Does the 3-2-1 Rule Work?
 -----------------------------
 Let’s say you took a picture of the Eiffel tower in Paris some time ago — that file is called “`IMG_20260101_163000.jpg`” and it lives on your smartphone. That’s the first “copy” of your data.
 
-In the meantime you have copied the file into the 'Pictures' folder on your PC. That’s the second copy on a different device or medium.
+Later on you have copied the file into the 'Pictures' folder on your PC. That’s the second copy on a different device or medium.
 
 You also have an external hard drive at home, used to back up your PC's data. That external hard drive will back up the file as part of its backup process. That’s the third copy on a different device or medium.
 
