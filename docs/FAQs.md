@@ -30,10 +30,10 @@ How can data loss happen?
 
 What kind of data need a backup?
 --------------------------------
-**Back up anything that you can't easily replace!**
+In general back up anything that you can't easily replace! So for example:
 
-* **Digital keys:** Credentials to the office, internet shops, software, services, VPN login, etc.
-* **Digital wallets:** BitCoins, Ethereums, etc. 
+* **Digital keys:** VPN logins, credentials to the office, internet shops, software, services, etc.
+* **Digital wallets:** BitCoins, Ethereums, PayPal, etc. 
 * **Work and projects:** Documents, spreadsheets, financial databases, source code, CAD drawings, etc.
 * **Memories:** Pictures, family photos, travels, videos, recordings, screenshots, etc.
 * **Digital favorites:** Books, music albums, singles, playlists, wallpaper, ringtones, etc.
@@ -44,7 +44,7 @@ For businesses, data backup options become a bit more technical — think of cus
 
 What's the 3-2-1 rule?
 ----------------------
-It advises that you **keep 3 copies of your data on 2 different media with 1 copy off-site.** Please read [3-2-1_rule.md](3-2-1_rule.md) for more information.
+It advises that you keep **3 copies** of your data **on 2 different media** with **1 copy off-site**. Please read [3-2-1_rule](3-2-1_rule.md) for more information.
 
 
 What types of data backups are available?
@@ -60,7 +60,7 @@ When deciding on a backup data storage strategy, there are different types of da
 
 Should I care about file formats?
 ---------------------------------
-**Yes, if you want to be able to open your family photos in 20 years.** Please read [File_formats.md](File_formats.md) for more information.
+**Yes,** if you want to be able to open your family photos in 20 years. Please read [File_formats](File_formats.md) for more information.
 
 How to handle hard drives?
 --------------------------
@@ -89,12 +89,12 @@ Hard drives can easily be damaged by too much physical force, extreme temperatur
 
 What about starting the backup scripts in parallel?
 ---------------------------------------------------
-No problem, but don't expect much speed gains due to bottlenecks such as same source media or same backup disk.
+**No problem,** but don't expect much speed gains due to bottlenecks such as same source media or same backup disk.
 
 
 What about copying other data onto the backup disk?
 ---------------------------------------------------
-No problem, as long as there is enough disk space left for the backups.
+**No problem,** as long as there is enough disk space left for the backups.
 
 
 Why not use a cloud backup only?
