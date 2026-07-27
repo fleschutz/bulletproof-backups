@@ -10,15 +10,15 @@ If you want to protect your personal information, photos, or other important dat
 
 How Does the 3-2-1 Rule Work?
 -----------------------------
-Let’s say you took a picture of the Eiffel tower in Paris years ago — that file is called “`Eiffel_tower.jpg`” and it lives on your computer at home. That’s the first “copy” of your data.
+Let’s say you took a picture of the Eiffel tower in Paris some time ago — that file is called “`IMG_20260101_163000.jpg`” and it lives on your smartphone. That’s the first “copy” of your data.
 
-You also have an external hard drive at home, used to back up your PC's data. That external hard drive will back up `Eiffel_tower.jpg` as part of its backup process. That’s the second copy on a different device or medium.
+In the meantime you have copied that file to your PC into the 'Pictures' folder. That’s the second copy on a different device or medium.
 
-Additionally, you also have a [cloud backup solution](https://www.backblaze.com/cloud-backup). The online backup continuously scans your computer and uploads your data to the cloud. `Eiffel_tower.jpg` is included in this upload, becoming the third copy of your data.
+You also have an external hard drive at home, used to back up your PC's data. That external hard drive will back up the file as part of its backup process. That’s the third copy on a different device or medium.
 
 The Easiest 3-2-1 Backup
 ------------------------
-If you back up your home computer to an external hard drive and back both of those devices up to the cloud using something like [Backblaze Computer Backup](https://www.backblaze.com/cloud-backup), congratulations: You have achieved a 3-2-1 backup. 
+If you back up your home computer to an external hard drive and back both of those devices up to the cloud, congratulations: You have achieved a 3-2-1 backup. 
 
 - You have **three** copies of your data: One on your computer, one on your hard drive, and one in the cloud.
 - You store your data on **two** different devices: Your computer and your external hard drive. (Technically, three devices, since your data is also stored in the cloud).
