@@ -30,13 +30,13 @@ How can data loss happen?
 
 What kind of data need a backup?
 --------------------------------
-In general back up anything that you can't easily replace! So for example:
+In general, back up anything that you can't easily replace! So for example:
 
 * **Digital keys:** VPN logins, credentials to the office, internet shops, software, services, etc.
-* **Digital wallets:** BitCoins, Ethereums, PayPal, etc. 
+* **Digital wallets:** BitCoins, Ethereums, etc. 
 * **Work and projects:** Documents, spreadsheets, financial databases, source code, CAD drawings, etc.
 * **Memories:** Pictures, family photos, travels, videos, recordings, screenshots, etc.
-* **Digital favorites:** Books, music albums, singles, playlists, wallpaper, ringtones, etc.
+* **Digital favorites:** Books, music albums, singles, playlists, wallpaper, ringtones, downloads, etc.
 * **Communication:** Address books, emails, messenger chats, and so on.
 
 For businesses, data backup options become a bit more technical — think of customer databases, configuration files, machine images, operating systems, and registry files — and there’s typically an IT department in place to manage them.
