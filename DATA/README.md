@@ -1,8 +1,9 @@
-Welcome to Your Data Folder
-===========================
+Welcome to Your Data
+====================
 
-This folder will contain all your data backups (or already contains it).
+This folder will contain or already contains all your data backups.
 
-- To recover your data: Follow the [checklist](../README.md), please.
-- See the [logbook](../docs/Logbook.csv) for backup details.
-- Read the [documents](../docs/) to plan your backup strategy or if you have any question.
+- **Recover your data:** Follow the [checklist](../README.md)
+- **Read the logbook:** See the [logbook](../docs/Logbook.csv)
+- **Plan your backup strategy:** Read the [documents](../docs/)
+- **Any questions?** Read the [FAQs](../docs/FAQs.md)
