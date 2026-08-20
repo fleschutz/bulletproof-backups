@@ -5,7 +5,7 @@
 📋 Planning & Preparation
 --------------------------
 1. **Read** the [FAQs](docs/FAQs.md) to plan your backup strategy, recommended is the [3-2-1 rule](docs/3-2-1_rule.md).
-2. **Fetch** hard drives with enough capacity from different vendors and models (maybe even rugged ones).
+2. **Fetch** hard drives with enough capacity from different vendors and models.
 3. **Check** each hard drive for errors and use error-free ones only.
 4. **Label** and rename each hard drive with an unique name, e.g. "Video backup #1 (4TB)".
 5. **Download** the [repository (5.8MB)](https://github.com/fleschutz/bulletproof-backups/archive/refs/tags/1.1.zip), unzip it, and copy it as 📁*bulletproof-backups* folder onto each hard drive.
